@@ -3,7 +3,8 @@ Using GameCreator 1 and Enviro how to set the time via lighting
 
 This creates a custom Action for GameCreator 1, allowing you to specify the:
 * Year
-* Day of Year
+* Month
+* Day
 * Hour (24 hour clock)
 * Minute
 
